@@ -6,4 +6,4 @@
 
 2024 3.9 Solve three Leetcode problems.
 
-2024 3.10 do lab6 exercises.
+2024 3.10 Do lab6 exercises.
