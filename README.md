@@ -5,3 +5,5 @@
 2024 3.8 Watch lab6 documents and do some exercises.
 
 2024 3.9 Solve three Leetcode problems.
+
+2024 3.10 do lab6 exercises.
