@@ -8,4 +8,4 @@
 
 2024 3.10 Do lab6 exercises.
 
-2024 3.11 School classes.
+2024 3.11 School classes and homework.
