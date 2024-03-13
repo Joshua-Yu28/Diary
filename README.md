@@ -9,3 +9,5 @@
 2024 3.10 Do lab6 exercises.
 
 2024 3.11 School classes and homework.
+
+2024 3.12 Finish lab6, start working on gitlet.
