@@ -1,6 +1,6 @@
 # diary
 
-2024 3.7 I Haven't written anything here, I'm working on the gitlet program right now.
+2024 3.7 Decide to work on the cs61b gitlet program, just like a simple version of git right now.
 
 2024 3.8 Watch lab6 documents and do some exercises.
 
