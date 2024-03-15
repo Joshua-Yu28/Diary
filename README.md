@@ -13,3 +13,5 @@
 2024 3.12 Finish lab6, and start working on gitlet.
 
 2024 3.13 Watching specs and introducing videos and get started.
+
+2024 3.14 School things.
