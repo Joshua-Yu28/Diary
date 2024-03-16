@@ -15,3 +15,5 @@
 2024 3.13 Watching specs and introducing videos and get started.
 
 2024 3.14 School things.
+
+2024 3.15 School homework.
