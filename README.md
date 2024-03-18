@@ -17,3 +17,7 @@
 2024 3.14 School things.
 
 2024 3.15 School homework.
+
+2024 3.16 School homework.
+
+2024 3.17 rest.
