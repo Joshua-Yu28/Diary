@@ -21,3 +21,5 @@
 2024 3.16 School homework.
 
 2024 3.17 rest.
+
+2024 3.18 school class, buy food.
