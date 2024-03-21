@@ -23,3 +23,5 @@
 2024 3.17 rest.
 
 2024 3.18 school class, buy food.
+
+2024 3.20 leetcode 3 problems。
