@@ -25,3 +25,5 @@
 2024 3.18 school class, buy food.
 
 2024 3.20 leetcode 3 problems。
+
+2024 3.21 working on the gitlet project.
