@@ -29,3 +29,5 @@
 2024 3.21 working on the gitlet project.
 
 2024 3.22 school homework.
+
+2024 3.23 leetcode, dfs problems.
