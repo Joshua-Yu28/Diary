@@ -40,4 +40,6 @@
 
 2024 4.3 school homework.
 
+2024 4.12 gitlet.
+
 2024 4.14 gitlet and school final project.
