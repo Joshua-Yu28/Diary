@@ -56,7 +56,7 @@
 
 2024 4.20 leetcoding, finish school final project.
 
-2024 4.21 leetcoding.
+2024 4.21 - 4.23 leetcoding.
 
 2024 4.24 final presentation.
 
