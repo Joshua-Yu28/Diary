@@ -57,3 +57,7 @@
 2024 4.20 leetcoding, finish school final project.
 
 2024 4.21 leetcoding.
+
+2024 4.24 final presentation.
+
+2024 4.25 flying home.
