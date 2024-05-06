@@ -71,3 +71,5 @@
 2024 4.30 leetcoding.
 
 2024 5.3 movie project.
+
+2024 5.6 Finish building the backend of the movie project.
