@@ -83,3 +83,5 @@
 2024 5.10 leetcoding.
 
 2024 5.11 leetcoding.
+
+2024 5.12 working on the movie project.
