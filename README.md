@@ -87,3 +87,5 @@
 2024 5.12 working on the movie project.
 
 2024 5.12 working on the movie project.
+
+2024 5.13 movie project, learning React.
