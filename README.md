@@ -141,3 +141,5 @@
 2024 6.22 leetcoding.
 
 2024 6.23 leetcoding.
+
+2024 6.23 update resume.
