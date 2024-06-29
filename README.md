@@ -142,6 +142,8 @@
 
 2024 6.23 leetcoding.
 
-2024 6.23 update resume.
+2024 6.24 update resume.
 
-2024 6.23 doing an online assessment, not good.
+2024 6.26 doing an online assessment, not good.
+
+2024 6.29 leetcoding.
