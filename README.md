@@ -147,3 +147,5 @@
 2024 6.26 doing an online assessment, not good.
 
 2024 6.29 leetcoding.
+
+2024 7.2 leetcoding.
