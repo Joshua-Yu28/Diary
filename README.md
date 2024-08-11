@@ -175,3 +175,5 @@
 2024 7.31 leetcoding.
 
 2024 8.5 leetcoding.
+
+2024 8.11 completing some online assessment.
