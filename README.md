@@ -179,3 +179,5 @@
 2024 8.11 completing some online assessment.
 
 2024 8.12 leetcoding, I have to overcome my inner weakness and laziness.
+
+2024 8.20 I received an interview invitation from Tiktok ecosystem platform, which is my first interview invitation in the USA. So I am looking forward to it and will get prepared in three weeks! Let's GO!
