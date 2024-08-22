@@ -1,6 +1,6 @@
 # diary
 
-2024 3.7 Decide to work on the cs61b gitlet program, just like a simple version of git right now.
+2024 3.7 Decide to work on the cs61b gitlet program, just like a simple version of git.
 
 2024 3.8 Watch lab6 documents and do some exercises.
 
@@ -10,9 +10,9 @@
 
 2024 3.11 School classes and homework.
 
-2024 3.12 Finish lab6, and start working on gitlet.
+2024 3.12 Finish lab 6, and start working on gitlet.
 
-2024 3.13 Watching specs and introducing videos and get started.
+2024 3.13 Watching specs and introducing videos and getting started.
 
 2024 3.14 School things.
 
@@ -46,7 +46,7 @@
 
 2024 4.14 gitlet and school final project.
 
-2024 4.15 finaltest.
+2024 4.15 final test.
 
 2024 4.17 leetcoding.
 
@@ -130,7 +130,7 @@
 
 2024 6.13 leetcoding.
 
-2024 6.15 leetcoding. Modifying my resume.
+2024 6.15 leetcoding. I am modifying my resume.
 
 2024 6.16 leetcoding.
 
@@ -144,7 +144,7 @@
 
 2024 6.24 update resume.
 
-2024 6.26 doing an online assessment, not good.
+2024 6.26 doing an online assessment, is not good.
 
 2024 6.29 leetcoding.
 
@@ -170,7 +170,7 @@
 
 2024 7.24 leetcoding.
 
-2024 7.30 recovered from illness, start leecoding again.
+2024 7.30 recovered from illness, started leecoding again.
 
 2024 7.31 leetcoding.
 
@@ -181,3 +181,5 @@
 2024 8.12 leetcoding, I have to overcome my inner weakness and laziness.
 
 2024 8.20 I received an interview invitation from Tiktok ecosystem platform, which is my first interview invitation in the USA. So I am looking forward to it and will get prepared in three weeks! Let's GO!
+
+2024 8.21 did some leetcoding in the morning and helped my friend move house for the rest of the day.
