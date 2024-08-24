@@ -183,3 +183,5 @@
 2024 8.20 I received an interview invitation from Tiktok ecosystem platform, which is my first interview invitation in the USA. So I am looking forward to it and will get prepared in three weeks! Let's GO!
 
 2024 8.21 did some leetcoding in the morning and helped my friend move house for the rest of the day.
+
+2024 8.23 did a mock interview, need to enhance my ability to write code in front of interviewers and my oral speaking ability.
