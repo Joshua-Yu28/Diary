@@ -184,4 +184,6 @@
 
 2024 8.21 did some leetcoding in the morning and helped my friend move house for the rest of the day.
 
-2024 8.23 did a mock interview, need to enhance my ability to write code in front of interviewers and my oral speaking ability.
+2024 8.23 did a mock interview, I need to enhance my ability to write code in front of interviewers and my oral speaking ability.
+
+2024 8.24 solve 10 new problems daily for the next 12 days(to 9.5) and I will achieve 400 total solved problems.
