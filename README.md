@@ -189,3 +189,5 @@
 2024 8.24 solve 10 new problems daily for the next 12 days(to 9.5) and I will achieve 400 total solved problems.
 
 2024 8.25 solve 6 problems and an oa. Not enough, keep going!
+
+2024 8.26 solve 9 problems and an oa. Not enough, keep going!
