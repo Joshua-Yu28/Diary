@@ -197,3 +197,7 @@
 2024 8.27 leetcoding， solve 7 problems.
 
 2024 8.28 leetcoding， solve 7 problems.
+
+2024 8.29 leetcoding， solve 7 problems.
+
+
