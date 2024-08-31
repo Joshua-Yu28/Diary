@@ -195,3 +195,5 @@
 2024 8.26 solve 3 problems and an oa, not enough, keep going!
 
 2024 8.27 leetcoding， solve 7 problems.
+
+2024 8.28 leetcoding， solve 7 problems.
