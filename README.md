@@ -202,4 +202,6 @@
 
 2024 8.30 leetcoding， solve 7 problems.
 
+2024 8.30 leetcoding， solve 5 problems.
+
 
