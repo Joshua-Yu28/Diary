@@ -202,6 +202,9 @@
 
 2024 8.30 leetcoding， solve 7 problems.
 
-2024 8.30 leetcoding， solve 5 problems.
+2024 8.31 leetcoding， solve 5 problems.
+
+2024 9.1 leetcoding， solve 3 problems and an oa, take today as a rest, restart tomorrow!
+
 
 
