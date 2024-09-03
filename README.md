@@ -206,5 +206,6 @@
 
 2024 9.1 leetcoding， solve 3 problems and an oa, take today as a rest, restart tomorrow!
 
+2024 9.2 leetcoding， solve 3 problems, I really need to adjust my learning state.
 
 
