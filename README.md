@@ -208,4 +208,8 @@
 
 2024 9.2 leetcoding， solve 3 problems, I really need to adjust my learning state.
 
+2024 9.3 review some java knowledge.
+
+2024 9.4 prepare resume.
+
 
