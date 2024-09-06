@@ -212,4 +212,6 @@
 
 2024 9.4 prepare resume.
 
+2024 9.5 prepare resume, go to class.
+
 
