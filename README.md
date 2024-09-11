@@ -214,4 +214,14 @@
 
 2024 9.5 prepare resume, go to class.
 
+2024 9.6 solved 4 leetcode problems.
+
+2024 9.7 solved 1 leetcode problem.
+
+2024 9.8 solved 1 leetcode problem.
+
+2024 9.9 solved 2 leetcode problem.
+
+2024 9.10 solved 2 leetcode problem.
+
 
