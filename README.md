@@ -224,4 +224,6 @@
 
 2024 9.10 solved 2 leetcode problem.
 
+2024 9.10 solved 5 leetcode problem.
+
 
