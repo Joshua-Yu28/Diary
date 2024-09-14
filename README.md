@@ -224,6 +224,10 @@
 
 2024 9.10 solved 2 leetcode problem.
 
-2024 9.10 solved 5 leetcode problem.
+2024 9.11 solved 5 leetcode problem.
+
+2024 9.12 go to classes and solve a couple of leetcode problems.
+
+2024 9.13 solved 5 leetcode problem.
 
 
