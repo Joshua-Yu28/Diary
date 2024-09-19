@@ -230,4 +230,8 @@
 
 2024 9.13 solved 5 leetcode problem.
 
+2024 9.14-9.16 preparing for an interview.
+
+2024 9.17 Finish an interview.
+
 
