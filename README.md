@@ -236,3 +236,5 @@
 
 2024 9.25 did an oa.
 
+2024 10.2 worked on a project and do some AWS practice.
+
