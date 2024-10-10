@@ -238,3 +238,4 @@
 
 2024 10.2 worked on a project and do some AWS practice.
 
+2024 10.9 solved 2 leetcode problems and do some school work. 
