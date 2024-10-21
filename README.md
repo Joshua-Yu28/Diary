@@ -241,3 +241,5 @@
 2024 10.9 solved 2 leetcode problems and do some school work. 
 
 2024 10.13 leetcoding.
+
+2024 10.20 I don't know exactly what happened to my state of learning, it's just moving slowly for a month. I really need to hurry up tomorrow.
